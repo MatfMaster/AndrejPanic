@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AngularMasterModelStoreContainer" CdmEntityContainer="MasterEntities">
+    <EntitySetMapping Name="Apartments">
+      <EntityTypeMapping TypeName="AngularMasterModel.Apartment">
+        <MappingFragment StoreEntitySet="Apartment">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="ApartmentType" ColumnName="ApartmentType" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ResponsibleUser" ColumnName="ResponsibleUser" />
+          <ScalarProperty Name="Capacity" ColumnName="Capacity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Coordinates" ColumnName="Coordinates" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="LastReservationDate" ColumnName="LastReservationDate" />
+          <ScalarProperty Name="DescriptionENG" ColumnName="DescriptionENG" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ApartmentImages">
+      <EntityTypeMapping TypeName="AngularMasterModel.ApartmentImage">
+        <MappingFragment StoreEntitySet="ApartmentImages">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ApartmentID" ColumnName="ApartmentID" />
+          <ScalarProperty Name="ImageName" ColumnName="ImageName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IsMain" ColumnName="IsMain" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ApartmentDetails">
+      <EntityTypeMapping TypeName="AngularMasterModel.ApartmentDetail">
+        <MappingFragment StoreEntitySet="ApartmentDetails">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ApartmentID" ColumnName="ApartmentID" />
+          <ScalarProperty Name="Capacity" ColumnName="Capacity" />
+          <ScalarProperty Name="FreeParking" ColumnName="FreeParking" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_GetApartments" FunctionName="AngularMasterModel.Store.sp_GetApartments">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="AngularMasterModel.sp_GetApartments_Result">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="DescriptionENG" ColumnName="DescriptionENG" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+          <ScalarProperty Name="ApartmentType" ColumnName="ApartmentType" />
+          <ScalarProperty Name="ImageName" ColumnName="ImageName" />
+          <ScalarProperty Name="ResponsibleUser" ColumnName="ResponsibleUser" />
+          <ScalarProperty Name="LastReservationDate" ColumnName="LastReservationDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

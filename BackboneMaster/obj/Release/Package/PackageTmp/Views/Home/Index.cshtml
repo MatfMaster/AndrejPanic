@@ -1,0 +1,159 @@
+﻿@{
+    ViewBag.Title = "Apartments";
+}
+
+<h2>Apartments</h2>
+
+<script src="~/Scripts/model.js"></script>
+<script src="~/Scripts/view.js"></script>
+<script src="~/Scripts/routes.js"></script>
+
+<nav>
+    <ul id="menu">
+        <li class="active menu" id="home">
+            <a href="/Home">Home</a>
+        </li>
+        <li id="login" class="menu">
+            <a href="/Login">Login</a>
+        </li>
+    </ul>
+</nav>
+
+<div class="main">
+
+    <div id="rAppContainer">
+        
+        Search: <input type="text" id="search" style=" width: 200px;">
+        <br/>
+        <br />
+        <br />
+
+    </div>
+
+</div>
+
+<script type="text/javascript">
+
+    var greeting = new GreetModel({ Message: "Hello world" });
+    var container = new ContainerView({ el: $("#AppContainer"), model: greeting });
+
+    var router = null;
+
+    $(document).ready(function () {
+        router = new myRouter();
+        Backbone.history.start();
+    })
+
+</script>
+
+<div id="appDetails">
+    <script id="latitude" type="text/html">
+
+        @*<div>Name: </div>*@
+        <h2 style="margin-left: 300px;"><%= Name %></h2>
+
+        @*<div style="display: inline; margin-left: 300px;">Address: </div>*@
+        <div style="display: inline; margin-left: 300px; text-align: center;"><%= Address %>, <%= City %></div>
+        <br />
+
+        @*<div>Address: </div>
+        <span style="font-weight: bold;"><%= Address %></span>
+        <br />*@
+
+        <div style="display: inline;">Price: </div>
+        <div style="display: inline; font-weight: bold;"><%= Price %>&euro;</div>
+
+
+        @*<div style="font-weight: bold;">Address: </div>
+        <div><%= Address %></div>
+        <div style="font-weight: bold;">Price: </div>
+        <div><%= Price %></div>*@
+
+    </script>
+</div>
+
+<div id="gallery" class="content">
+    <div id="controls" class="controls"></div>
+    <div class="slideshow-container">
+        <div id="loading" class="loader"></div>
+        <div id="slideshow" class="slideshow" style="width:304px;height:228px;"></div>
+    </div>
+    <div id="caption" class="caption-container"></div>
+</div>
+
+@*<div id="appImages">
+    <script id="images" type="text/html">
+        <div id="thumbs" class="navigation">
+            <ul class="thumbs noscript">
+                <% _.each(images, function (image) { %>
+
+                <li class="imgdata">
+
+                    <a class="thumb" href="../Images/<%= image.ApartmentName %>/<%= image.ImageName %>" title="<%= image.ImageName %>">
+                        <img src="../Images/<%= image.ApartmentName %>/<%= image.ImageName %>" width="300" height="220" alt="<%= image.ImageName %>" title="<%= image.ImageName %>" />
+                    </a>
+
+                </li>
+
+                <% }); %>
+            </ul>
+        </div>
+    </script>
+</div>*@
+
+<br />
+
+<div id="appImages">
+    <script id="images" type="text/html">
+        <div class="pikachoose">
+            <ul id="pikame">
+                <% _.each(images, function (image) { %>
+
+                <li>
+
+                    <a href="../Images/<%= image.ApartmentName %>/<%= image.ImageName %>" title="<%= image.ImageName %>">
+                        <img src="../Images/<%= image.ApartmentName %>/<%= image.ImageName %>" width="300" height="220" alt="<%= image.ImageName %>" title="<%= image.ImageName %>" />
+                    </a>
+
+                </li>
+
+                <% }); %>
+            </ul>
+        </div>
+    </script>
+</div>
+
+<br />
+<br/>
+
+
+<div id="upload">
+    <script id="uploadImage" type="text/html">
+
+        <form novalidate name="f1" onsubmit="SaveFile()">
+            <h2>Upload image</h2>
+
+            <table>
+                <tr>
+                    <td>Select a file: </td>
+                    <td>
+                        <input type="file" name="file" accept="image/*" onchange="" required />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Description : </td>
+                    <td>
+                        <input type="text" name="uFileDescription"/>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <input type="submit" value="Upload a file" />
+                    </td>
+                </tr>
+            </table>
+
+        </form>
+    </script>
+</div>

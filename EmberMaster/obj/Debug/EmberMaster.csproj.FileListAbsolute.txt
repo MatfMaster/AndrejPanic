@@ -1,0 +1,180 @@
+C:\office\ex\EmberMaster\EmberMaster\bin\BackboneMaster.dll.config
+C:\office\ex\EmberMaster\EmberMaster\bin\BackboneMaster.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\BackboneMaster.pdb
+C:\office\ex\EmberMaster\EmberMaster\bin\Antlr3.Runtime.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.Core.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\EntityFramework.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Data.Edm.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Data.OData.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\Newtonsoft.Json.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Net.Http.Formatting.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Spatial.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Helpers.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Http.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Http.OData.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Http.WebHost.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Mvc.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Optimization.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Razor.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.WebPages.Deployment.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.WebPages.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.WebPages.Razor.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\WebGrease.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\WebMatrix.WebData.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Net.Http.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\EntityFramework.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\Newtonsoft.Json.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Net.Http.Formatting.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Helpers.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Http.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Http.WebHost.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Mvc.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Razor.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.WebPages.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.WebPages.Deployment.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.WebPages.Razor.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\WebMatrix.Data.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\WebMatrix.WebData.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.Core.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Web.Http.OData.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Data.Edm.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\Microsoft.Data.OData.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Spatial.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\System.Net.Http.xml
+C:\office\ex\EmberMaster\EmberMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\de\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\es\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\fr\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\it\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ja\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ko\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\ru\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\office\ex\EmberMaster\EmberMaster\obj\Debug\EmberMaster.csprojResolveAssemblyReference.cache
+C:\office\ex\EmberMaster\EmberMaster\obj\Debug\BackboneMaster.dll
+C:\office\ex\EmberMaster\EmberMaster\obj\Debug\BackboneMaster.pdb
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\BackboneMaster.dll.config
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\BackboneMaster.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\BackboneMaster.pdb
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Antlr3.Runtime.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.Core.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\EntityFramework.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Data.Edm.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Data.OData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Newtonsoft.Json.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Net.Http.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Net.Http.WebRequest.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Spatial.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Helpers.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Http.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Http.OData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Mvc.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Optimization.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Razor.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.WebPages.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\WebGrease.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\WebMatrix.Data.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\WebMatrix.WebData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Mono.Math.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\EntityFramework.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Newtonsoft.Json.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Net.Http.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Net.Http.WebRequest.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Helpers.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Http.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Mvc.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Razor.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.WebPages.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\WebMatrix.Data.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\WebMatrix.WebData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.Core.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Web.Http.OData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Data.Edm.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Microsoft.Data.OData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\System.Spatial.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\Mono.Math.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\de\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\es\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\fr\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\it\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ja\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ko\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\ru\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\obj\Debug\BackboneMaster.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\EmberMaster\obj\Debug\BackboneMaster.pdb

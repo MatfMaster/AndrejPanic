@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Apartments</h2>
+<style>
+    .tableData td, .tableData th {
+            /*border-right: solid 1px #D8C3C3;
+            border-bottom: solid 1px #D8C3C3;*/
+            text-align: left;
+            padding: 5px;
+        }
+
+
+
+        .tableData th {
+            background-color: #FAFAFA;
+            padding: 7px 5px;
+            /*border-bottom-color: #9C9C9C;*/
+        }
+
+    .odd {
+        background-color: #f3f3f3;
+    }
+
+    .even {
+        background-color: #ffffff;
+    }
+</style>
+<div ng-controller="HomeController">
+
+
+
+    <div style="font-weight:bold">
+        Apartments
+    </div>
+
+
+    <label>Search: <input ng-model="searchText"></label>
+
+    <table class="tableData" width="80%" border="0" cellpadding="0" cellspacing="0">
+        @*<tr>
+                <td>Name :</td>
+                <td>{{Apartments.Name}}</td>
+            </tr>*@
+
+        <tr ng-repeat="e in Apartments | filter:searchText" ng-class-odd="'odd'" ng-class-even="'even'">
+
+
+            <td ng-if="e.ImageName !== null"><img ng-src="{{'../Images/' + e.Name + '/' + e.ImageName}}" width="300" height="220" /></td>
+            <td ng-if="e.ImageName === null">-</td>
+            @*<td><img ng-src="~/Images/Apartment Nevena/001.jpg" width="300" height="220"></td>*@
+
+            <td>{{e.Name}}</td>
+            <td>{{e.FirstName}} {{e.LastName}}</td>
+            <td><a ng-href="{{'/Details/' + e.ID}}">More details</a></td>
+            <td>{{e.Address}}</td>
+            <td>{{e.City}}</td>
+            <td>{{e.PostalCode}}</td>
+        </tr>
+
+
+        @*<tr>
+                <td>Last Name : </td>
+                <td>{{Contact.LastName}}</td>
+            </tr>
+            <tr>
+                <td>Contact No1:</td>
+                <td>{{Contact.ContactNo1}}</td>
+            </tr>
+            <tr>
+                <td>Contact No2:</td>
+                <td>{{Contact.ContactNo2}}</td>
+            </tr>
+            <tr>
+                <td>Email ID:</td>
+                <td>{{Contact.EmailID}}</td>
+            </tr>
+            <tr>
+                <td>Address</td>
+                <td>{{Contact.Address}}</td>
+            </tr>*@
+    </table>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/AngularController/HomeController.js"></script>
+}

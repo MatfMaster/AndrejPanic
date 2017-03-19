@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AngularMasterModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Apartment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar(max)" />
+    <Property Name="Rating" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="ApartmentType" Type="int" Nullable="false" />
+    <Property Name="ModifiedDate" Type="datetime" Nullable="false" />
+    <Property Name="ResponsibleUser" Type="int" />
+    <Property Name="Capacity" Type="int" Nullable="false" />
+    <Property Name="Price" Type="decimal" Precision="18" Scale="2" />
+    <Property Name="Coordinates" Type="nvarchar" MaxLength="100" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" />
+    <Property Name="LastReservationDate" Type="datetime" />
+    <Property Name="DescriptionENG" Type="nvarchar(max)" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'AngularMaster.dbo.ApartmentDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ApartmentDetails">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="ApartmentID" />
+      <PropertyRef Name="Capacity" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="ApartmentID" Type="int" Nullable="false" />
+    <Property Name="Capacity" Type="int" Nullable="false" />
+    <Property Name="FreeParking" Type="bit" />
+  </EntityType>
+  <EntityType Name="ApartmentImages">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="ApartmentID" Type="int" Nullable="false" />
+    <Property Name="ImageName" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Description" Type="nchar" MaxLength="10" />
+    <Property Name="IsMain" Type="bit" Nullable="false" />
+  </EntityType>
+  <Function Name="sp_GetApartments" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="AngularMasterModel1StoreContainer">
+    <EntitySet Name="Apartment" EntityType="Self.Apartment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ApartmentImages" EntityType="Self.ApartmentImages" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ApartmentDetails" EntityType="Self.ApartmentDetails" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ApartmentDetails].[ID] AS [ID], 
+    [ApartmentDetails].[ApartmentID] AS [ApartmentID], 
+    [ApartmentDetails].[Capacity] AS [Capacity], 
+    [ApartmentDetails].[FreeParking] AS [FreeParking]
+    FROM [dbo].[ApartmentDetails] AS [ApartmentDetails]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

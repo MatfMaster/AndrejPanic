@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "Apartments";
+}
+
+<nav>
+    <ul id="menu">
+        <li class="active menu" id="home">
+            <a href="/Home">Home</a>
+        </li>
+    </ul>
+</nav>
+
+<div id="divbindingcontainer">
+
+    <div data-bind="with: apartmentListViewModel">
+
+        <div data-bind="visible: showSearch">
+
+            <h2>Apartments</h2>
+
+            <br />
+                    
+            <label>Search: <input type="text" id="search" data-bind="value: Query, valueUpdate: 'keyup' "></label>
+        </div>
+
+        <br />
+
+        <table class="tableData apartments" border="0" cellpadding="0" cellspacing="0">
+            <tbody data-bind="foreach: searchResults, visible: showApartments">
+                <tr data-bind="click: $parent.goToApartment">
+                    <td data-bind="if: ImageName">
+                        <a data-bind="attr: { href: url}, click: $parent.goToApartment">
+                            <img data-bind="attr: { src: src}" width="300" height="220" />
+                        </a>
+                    </td>
+                    <td data-bind="ifnot: ImageName">-</td>
+
+                    <td data-bind="text: Name"></td>
+                    <td>
+                        <a data-bind="attr: { href: url }">
+                            More details
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div data-bind="with: chosenApartmentData">
+            <div>
+                <h2 data-bind="text: Name"  style="margin-left: 30%;"></h2>
+                <span data-bind="text: Address"  style="display: inline; margin-left: 30%; text-align: center;"></span>,
+                <span data-bind="text: City"></span>
+
+                <br />
+                <br />
+
+                <div data-bind="text: Description"></div>
+                <p style="font-weight: bold;">Price: <span data-bind="text: Price"></span>&euro;</p>
+
+            </div>
+        </div>
+
+        <div class="pikachoose">
+            <ul id="pikame" data-bind="foreach: images">
+
+                <li>
+                    @*<a data-bind="attr: { href: imageUrl}">*@
+                    <img data-bind="attr: { src: imageSrc}" width="300" height="220" />
+                    @*</a>*@
+                    <span></span>
+                </li>
+
+            </ul>
+        </div>
+
+
+
+    </div>
+</div>

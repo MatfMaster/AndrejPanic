@@ -1,0 +1,86 @@
+﻿@{
+    ViewBag.Title = "Apartments";
+}
+
+<nav>
+    <ul id="menu">
+        <li class="active menu" id="home">
+            <a href="#">Home</a>
+        </li>
+    </ul>
+</nav>
+
+<div class="main">
+    
+    <div id="apartmentsID">
+    </div>
+
+    <script type="text/x-handlebars" id="index">
+
+        <h2>Apartments</h2>
+
+        <br />
+
+        <form {{action filteredList on="input"}}>
+            <p>Search: {{input type="text" value=searchTerm }}</p>
+        </form>
+        <table class="tableData" border="0" cellpadding="0" cellspacing="0">
+            {{#each}}
+                <tr>
+                    <td>
+                        <a {{bind-attr href=ImageUrl}}>
+                            <img {{bind-attr src=ImageSrc}} width="300" height="220" />
+                        </a>
+                    </td>
+                    @*<td ng-if="e.ImageName === null">-</td>*@
+
+                    <td>{{Name}}</td>
+                    <td><a {{bind-attr href=ImageUrl}}>More details</a></td>
+                </tr>
+            {{/each}}
+
+        </table>
+
+    </script>
+
+    <script type="text/x-handlebars" id="details">
+        <h2 style="margin-left: 30%;">{{Name}}</h2>
+
+        <span style="display: inline; margin-left: 30%; text-align: center;">{{Address}}</span>,
+        <span>{{City}}</span>
+
+        <br />
+        <br />
+
+        <div>{{Description}}</div>
+        <p style="font-weight: bold;">Price: <span>{{Price}}</span>&euro;</p>
+
+        <div id="gallery" class="content">
+            <div id="controls" class="controls"></div>
+            <div class="slideshow-container">
+                <div id="loading" class="loader"></div>
+                <div id="slideshow" class="slideshow" style="width:304px;height:228px;"></div>
+            </div>
+            <div id="caption" class="caption-container"></div>
+        </div>
+        <div id="thumbs" class="navigation">
+            <ul class="thumbs noscript" >
+                {{#each e in images}}
+                    <li class="imgdata">
+                        <a class="thumb" {{bind-attr href=e.ImageSrc title="e.ImageName"}}>
+                            <img {{bind-attr src=e.ImageSrc title="e.ImageName" alt="e.ImageName"}} width="300" height="220" />
+                        </a>
+                    </li>
+                {{/each}}
+            </ul>
+        </div>
+
+        <p>{{#link-to "index"}}Back{{/link-to}}</p>
+    </script>
+
+    <script src="Scripts/app/application.js"></script>
+    <script src="Scripts/app/views.js"></script>
+    <script src="Scripts/app/routes.js"></script>
+    <script src="Scripts/app/controllers.js"></script>
+
+</div>

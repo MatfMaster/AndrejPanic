@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AngularMasterModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityType Name="Apartment">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Rating" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="ApartmentType" Type="Int32" Nullable="false" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="ResponsibleUser" Type="Int32" />
+    <Property Name="Capacity" Type="Int32" Nullable="false" />
+    <Property Name="Price" Type="Decimal" Precision="18" Scale="2" />
+    <Property Name="Coordinates" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="LastReservationDate" Type="DateTime" Precision="3" />
+    <Property Name="DescriptionENG" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="AngularMasterEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Apartment" EntityType="Self.Apartment" />
+    <FunctionImport Name="sp_GetApartments" ReturnType="Collection(AngularMasterModel.sp_GetApartments_Result)" />
+    <EntitySet Name="User" EntityType="AngularMasterModel.User" />
+    <EntitySet Name="ApartmentImages" EntityType="AngularMasterModel.ApartmentImages" />
+  </EntityContainer>
+  <ComplexType Name="sp_GetApartments_Result">
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="City" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Description" Nullable="true" />
+    <Property Type="String" Name="DescriptionENG" Nullable="true" />
+    <Property Type="Decimal" Name="Rating" Nullable="true" Precision="18" Scale="2" />
+    <Property Type="Int32" Name="ApartmentType" Nullable="false" />
+    <Property Type="String" Name="ImageName" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="ResponsibleUser" Nullable="true" />
+    <Property Type="DateTime" Name="LastReservationDate" Nullable="true" Precision="23" />
+  </ComplexType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="ID" />
+      <PropertyRef Name="Username" />
+      <PropertyRef Name="Password" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="ApartmentImages">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="ApartmentID" Type="Int32" Nullable="false" />
+    <Property Name="ImageName" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Description" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="IsMain" Type="Boolean" Nullable="false" />
+  </EntityType>
+</Schema>

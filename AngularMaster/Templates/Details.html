@@ -1,0 +1,37 @@
+﻿
+<h2 style="margin-left: 30%;">{{Details.Name}}</h2>
+
+<span style="display: inline; margin-left: 30%; text-align: center;">{{Details.Address}}</span>,
+<span>{{Details.City}}</span>
+
+<br />
+<br />
+
+<div>{{Details.Description}}</div>
+<p style="font-weight: bold;">Price: <span>{{Details.Price}}</span>&euro;</p>
+
+<div id="gallery" class="content">
+    <div id="controls" class="controls"></div>
+    <div class="slideshow-container">
+        <div id="loading" class="loader"></div>
+        <div id="slideshow" class="slideshow" style="width:304px;height:228px;"></div>
+    </div>
+    <div id="caption" class="caption-container"></div>
+</div>
+
+
+<div id="thumbs" class="navigation"  ng-controller="ImagesController">
+    <ul class="thumbs noscript" >
+
+        <li ng-repeat="e in Images" on-finish-render="test()" class="imgdata">
+
+            <a class="thumb" ng-href="{{'../Images/' + e.ApartmentName + '/' + e.ImageName}}" title="{{e.ImageName}}">
+                <img ng-src="{{'../Images/' + e.ApartmentName + '/' + e.ImageName}}" width="300" height="220" alt="{{e.ImageName}}" title="{{e.ImageName}}" />
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+<div ng-controller="DetailsController">
+</div>

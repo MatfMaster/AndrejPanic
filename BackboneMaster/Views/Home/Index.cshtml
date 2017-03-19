@@ -1,0 +1,90 @@
+﻿@{
+    ViewBag.Title = "Apartments";
+}
+
+<script src="~/Scripts/model.js"></script>
+<script src="~/Scripts/view.js"></script>
+<script src="~/Scripts/routes.js"></script>
+
+<nav>
+    <ul id="menu">
+        <li class="active menu" id="home">
+            <a href="/Home">Home</a>
+        </li>
+    </ul>
+</nav>
+
+<div class="main">
+
+    <div id="rAppContainer">
+
+        <h2>Apartments</h2>
+
+        <br />
+
+        Search: <input type="text" id="search">
+        <br/>
+        <br />
+        <br />
+    </div>
+
+</div>
+
+<script type="text/javascript">
+
+    var greeting = new GreetModel({ Message: "Hello world" });
+    var container = new ContainerView({ el: $("#AppContainer"), model: greeting });
+
+    var router = null;
+
+    $(document).ready(function () {
+        router = new myRouter();
+        Backbone.history.start();
+    })
+
+</script>
+
+<div id="appDetails">
+</div>
+<script id="latitude" type="text/html">
+
+    <h2 style="margin-left: 30%;"><%= Name %></h2>
+
+    <div style="display: inline; margin-left: 30%; text-align: center;"><%= Address %>, <%= City %></div>
+    <br /><br />
+    <div><%= Description %></div>
+
+    <p style="font-weight: bold;">Price: <span><%= Price %></span>&euro;</p>
+
+</script>
+
+<div id="gallery" class="content">
+    <div id="controls" class="controls"></div>
+    <div class="slideshow-container">
+        <div id="loading" class="loader"></div>
+        <div id="slideshow" class="slideshow" style="width:304px;height:228px;"></div>
+    </div>
+    <div id="caption" class="caption-container"></div>
+</div>
+
+<br />
+
+<div id="appImages">
+</div>
+    <script id="images" type="text/html">
+        <div class="pikachoose">
+            <ul id="pikame">
+                <% _.each(images, function (image) { %>
+
+                <li>
+
+                    <a href="../Images/<%= image.ApartmentName %>/<%= image.ImageName %>" title="<%= image.ImageName %>">
+                        <img src="../Images/<%= image.ApartmentName %>/<%= image.ImageName %>" width="300" height="220" alt="<%= image.ImageName %>" title="<%= image.ImageName %>" />
+                    </a>
+
+                </li>
+
+                <% }); %>
+            </ul>
+        </div>
+    </script>

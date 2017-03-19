@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/angular")
+        <script src="~/Scripts/app.js"></script>
+        <script src="~/Scripts/AngularController/HomeController.js"></script>
+        <script src="~/Scripts/AngularController/DetailsController.js"></script>
+        <script src="~/Scripts/AngularController/ImagesController.js"></script>
+        <script src="~/Scripts/AngularController/ErrorController.js"></script>
+
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body ng-app="app">
+        <header>
+
+        </header>
+
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year</p>
+                </div>
+            </div>
+        </footer>
+
+        <script src="~/Scripts/jquery.galleriffic.js"></script>
+        <script src="~/Scripts/jquery.opacityrollover.js"></script>
+        <script src="~/Scripts/jquery.history.js"></script>
+
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

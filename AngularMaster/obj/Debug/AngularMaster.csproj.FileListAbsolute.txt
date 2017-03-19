@@ -1,0 +1,271 @@
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\AngularMaster.dll.config
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\AngularMaster.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\AngularMaster.pdb
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Antlr3.Runtime.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.AspNet.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.Core.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\EntityFramework.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Data.Edm.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Data.OData.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Web.Infrastructure.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Newtonsoft.Json.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Net.Http.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Net.Http.WebRequest.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Spatial.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Helpers.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Http.OData.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Mvc.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Optimization.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Razor.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.WebPages.Deployment.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.WebPages.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.WebPages.Razor.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\WebGrease.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\WebMatrix.Data.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\WebMatrix.WebData.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\EntityFramework.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Newtonsoft.Json.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Net.Http.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Net.Http.WebRequest.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Helpers.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Mvc.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Razor.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.WebPages.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.WebPages.Deployment.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.WebPages.Razor.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\WebMatrix.Data.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\WebMatrix.WebData.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.AspNet.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.Core.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Web.Http.OData.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Data.Edm.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\Microsoft.Data.OData.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\System.Spatial.xml
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\de\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\es\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\fr\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\it\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ja\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ko\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\ru\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\obj\Debug\AngularMaster.csprojResolveAssemblyReference.cache
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\obj\Debug\AngularMaster.dll
+c:\users\andrej\documents\visual studio 2013\Projects\AngularMaster\AngularMaster\obj\Debug\AngularMaster.pdb
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\AngularMaster.dll.config
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\AngularMaster.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\AngularMaster.pdb
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Antlr3.Runtime.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.Core.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\EntityFramework.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.Edm.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.OData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Newtonsoft.Json.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Net.Http.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Net.Http.WebRequest.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Spatial.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Helpers.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Http.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Http.OData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Mvc.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Optimization.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Razor.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\WebGrease.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\WebMatrix.Data.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\WebMatrix.WebData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Mono.Math.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\EntityFramework.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Newtonsoft.Json.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Net.Http.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Net.Http.WebRequest.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Helpers.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Http.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Mvc.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Razor.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\WebMatrix.Data.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\WebMatrix.WebData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.Core.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Web.Http.OData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.Edm.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.OData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\System.Spatial.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\Mono.Math.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\de\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\es\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\fr\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\it\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ja\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ko\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\ru\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\obj\Debug\AngularMaster.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\AngularMaster\obj\Debug\AngularMaster.pdb
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\AngularMaster.dll.config
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\AngularMaster.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\AngularMaster.pdb
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Antlr3.Runtime.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.Core.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\EntityFramework.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.Edm.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.OData.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Newtonsoft.Json.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Net.Http.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Net.Http.Formatting.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Net.Http.WebRequest.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Spatial.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Helpers.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Http.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Http.OData.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Http.WebHost.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Mvc.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Optimization.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Razor.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Deployment.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Razor.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\WebGrease.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\WebMatrix.Data.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\WebMatrix.WebData.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Mono.Math.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\EntityFramework.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Newtonsoft.Json.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Net.Http.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Net.Http.Formatting.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Net.Http.WebRequest.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Helpers.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Http.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Http.WebHost.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Mvc.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Razor.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Deployment.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.WebPages.Razor.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\WebMatrix.Data.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\WebMatrix.WebData.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.Core.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Web.Http.OData.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.Edm.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Microsoft.Data.OData.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\System.Spatial.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\Mono.Math.xml
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\de\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\es\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\fr\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\it\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ja\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ko\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\ru\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\obj\Debug\AngularMaster.csprojResolveAssemblyReference.cache
+C:\Projekti\JavaScriptMaster\AngularMaster\obj\Debug\AngularMaster.dll
+C:\Projekti\JavaScriptMaster\AngularMaster\obj\Debug\AngularMaster.pdb

@@ -1,0 +1,272 @@
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\AngularMaster.dll.config
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\AngularMaster.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\AngularMaster.pdb
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Antlr3.Runtime.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.Core.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\EntityFramework.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Data.Edm.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Data.OData.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Newtonsoft.Json.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Net.Http.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Net.Http.WebRequest.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Spatial.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Helpers.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Http.OData.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Mvc.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Optimization.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Razor.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.WebPages.Deployment.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.WebPages.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.WebPages.Razor.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\WebGrease.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\WebMatrix.Data.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\WebMatrix.WebData.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\EntityFramework.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Newtonsoft.Json.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Net.Http.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Net.Http.WebRequest.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Helpers.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Mvc.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Razor.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.WebPages.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.WebPages.Deployment.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.WebPages.Razor.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\WebMatrix.Data.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\WebMatrix.WebData.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.Core.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Web.Http.OData.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Data.Edm.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\Microsoft.Data.OData.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\System.Spatial.xml
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\de\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\es\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\fr\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\it\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ja\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ko\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\ru\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\obj\Debug\AngularMaster.dll
+C:\Projekti\KnockoutMaster\KnockoutMaster\obj\Debug\AngularMaster.pdb
+C:\Projekti\KnockoutMaster\KnockoutMaster\obj\Debug\KnockoutMaster.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\AngularMaster.dll.config
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\AngularMaster.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\AngularMaster.pdb
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Antlr3.Runtime.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.Core.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\EntityFramework.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.Edm.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.OData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Newtonsoft.Json.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.WebRequest.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Spatial.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Helpers.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.OData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Mvc.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Optimization.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Razor.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Razor.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\WebGrease.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.Data.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.WebData.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Mono.Math.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\EntityFramework.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Newtonsoft.Json.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.WebRequest.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Helpers.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Mvc.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Razor.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Razor.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.Data.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.WebData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.Core.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.OData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.Edm.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.OData.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\System.Spatial.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\Mono.Math.xml
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\de\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\es\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\fr\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\it\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ja\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ko\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\ru\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\obj\Debug\KnockoutMaster.csprojResolveAssemblyReference.cache
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\obj\Debug\AngularMaster.dll
+C:\Users\Andrej\Documents\Visual Studio 2015\Projects\JavaScriptMaster\KnockoutMaster\obj\Debug\AngularMaster.pdb
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\AngularMaster.dll.config
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\AngularMaster.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\AngularMaster.pdb
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Antlr3.Runtime.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.AspNet.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.Core.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\EntityFramework.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.Edm.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.OData.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.Infrastructure.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Newtonsoft.Json.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.Formatting.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.WebRequest.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Spatial.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Helpers.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.OData.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.WebHost.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Mvc.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Optimization.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Razor.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Deployment.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Razor.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\WebGrease.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.Data.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.WebData.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Mono.Math.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\EntityFramework.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Newtonsoft.Json.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.Formatting.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Net.Http.WebRequest.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Helpers.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.WebHost.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Mvc.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Razor.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Deployment.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.WebPages.Razor.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.Data.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\WebMatrix.WebData.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.AspNet.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.Core.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OAuth.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Web.Http.OData.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.Edm.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Microsoft.Data.OData.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\System.Spatial.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\Mono.Math.xml
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\de\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\es\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\it\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\de\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\es\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\fr\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\it\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ja\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ko\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\ru\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\zh-Hans\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\bin\zh-Hant\System.Spatial.resources.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\obj\Debug\KnockoutMaster.csprojResolveAssemblyReference.cache
+C:\Projekti\JavaScriptMaster\KnockoutMaster\obj\Debug\AngularMaster.dll
+C:\Projekti\JavaScriptMaster\KnockoutMaster\obj\Debug\AngularMaster.pdb

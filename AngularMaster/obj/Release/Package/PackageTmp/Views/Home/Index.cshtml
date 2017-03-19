@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<nav>
+    <ul id="menu">
+
+        <li class="active menu" id="home">
+            <a href="#!/Home">Home</a>
+        </li>
+        <li id="nevena1" class="menu">
+            <a href="#!/Login">Login</a>
+        </li>
+        @*<li id="nevena2" class="menu">
+            <a href="#/Nevena2">Apartman Nevena 2</a>
+        </li>
+        <li id="nevena3" class="menu">
+            <a href="#/Nevena3">Apartman Nevena 3</a>
+        </li>*@
+
+    </ul>
+
+</nav>
+
+<div style="padding:0 10px; margin:10px; border:10px solid #f3f3f3; clear:both;">
+    <ng-view>
+
+    </ng-view>
+</div>
+
+@*<div ng-controller="RouteController">
+    {{Message}}
+</div>*@

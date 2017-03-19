@@ -1,0 +1,367 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<script src="~/Scripts/viewDetails.js"></script>
+<script src="~/Scripts/jquery.galleriffic.js"></script>
+<script src="~/Scripts/jquery.opacityrollover.js"></script>
+<script src="~/Scripts/jquery.history.js"></script>
+
+<nav>
+    <ul id="menu">
+        <li class="active menu" id="home">
+            <a href="/Home">Home</a>
+        </li>
+        <li id="nevena1" class="menu">
+            <a href="/Login">Login</a>
+        </li>
+    </ul>
+</nav>
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<div id="gallery" class="content">
+    <div id="controls" class="controls"></div>
+    <div class="slideshow-container">
+        <div id="loading" class="loader"></div>
+        <div id="slideshow" class="slideshow" style="width:304px;height:228px;"></div>
+    </div>
+    <div id="caption" class="caption-container"></div>
+</div>
+
+<div id="thumbs" class="navigation">
+
+    <ul class="thumbs noscript" id="appImages">
+
+        </ul>
+</div>
+
+<div id="appDetails">
+</div>
+
+<script id='appDetails' type='text/template'>
+    <td><%=Address%></td>
+    <td><%=Name%></td>
+</script>
+
+<script type="text/javascript">
+
+    var details = new ApartmentDetails({ id: '@ViewContext.RouteData.Values["id"]' });
+
+    var view2 = new appDetails({ model: details, el: $('#appDetails')[0] });
+
+    this.details.fetch({
+        success: function () {
+            view2.render();
+        }
+    });
+
+
+    var images = new ImagesCollection([], { id: '@ViewContext.RouteData.Values["id"]' });
+
+    var view1 = new appImagesView({ model: images, el: $('#appImages')[0] });
+
+    //view1.render();
+
+
+    @*data: { id: '@ViewContext.RouteData.Values["id"]' },*@
+@*data: $.param( { id:'@ViewContext.RouteData.Values["id"]' }),*@
+
+    images.fetch({
+
+        reset: function () {
+            view1.render();
+        },
+
+        success: function () {
+            view1.render();
+
+            //// We only want these styles applied when javascript is enabled
+            //$('div.navigation').css({ 'float': 'left' });
+            //$('div.content').css('display', 'block');
+
+            //// Initially set opacity on thumbs and add
+            //// additional styling for hover effect on thumbs
+            //var onMouseOutOpacity = 0.67;
+            //$('#thumbs ul.thumbs li').opacityrollover({
+            //    mouseOutOpacity: onMouseOutOpacity,
+            //    mouseOverOpacity: 1.0,
+            //    fadeSpeed: 'fast',
+            //    exemptionSelector: '.selected'
+            //});
+
+            //// Initialize Advanced Galleriffic Gallery
+            //var gallery = $('#thumbs').galleriffic({
+            //    delay: 4000,
+            //    numThumbs: 15,
+            //    preloadAhead: 10,
+            //    enableTopPager: true,
+            //    enableBottomPager: true,
+            //    maxPagesToShow: 7,
+            //    imageContainerSel: '#slideshow',
+            //    controlsContainerSel: '#controls',
+            //    captionContainerSel: '#caption',
+            //    loadingContainerSel: '#loading',
+            //    renderSSControls: true,
+            //    renderNavControls: true,
+            //    playLinkText: 'Play Slideshow',
+            //    pauseLinkText: 'Pause Slideshow',
+            //    prevLinkText: '&lsaquo; Previous Photo',
+            //    nextLinkText: 'Next Photo &rsaquo;',
+            //    nextPageLinkText: 'Next &rsaquo;',
+            //    prevPageLinkText: '&lsaquo; Prev',
+            //    enableHistory: false,
+            //    autoStart: false,
+            //    syncTransitions: true,
+            //    defaultTransitionDuration: 900,
+            //    onSlideChange: function (prevIndex, nextIndex) {
+            //        // 'this' refers to the gallery, which is an extension of $('#thumbs')
+            //        this.find('ul.thumbs').children()
+            //                .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+            //                .eq(nextIndex).fadeTo('fast', 1.0);
+            //    },
+            //    onPageTransitionOut: function (callback) {
+            //        this.fadeTo('fast', 0.0, callback);
+            //    },
+            //    onPageTransitionIn: function () {
+            //        this.fadeTo('fast', 1.0);
+            //    }
+            //});
+
+
+
+
+
+
+
+
+
+        }
+    });
+
+
+
+    view1.render();
+
+
+</script>
+
+
+@*<script type="text/javascript">
+    // This code block will handle the view which are not route enabled.
+    var greeting = new GreetModel({ Message: "Hello world" });
+
+    var container = new ContainerView({ el: $("#AppContainer"), model: greeting });
+
+    var router = null;
+
+    $(document).ready(function () {
+        router = new myRouter();
+        Backbone.history.start({ pushState: true, root: '/' });
+    })
+
+</script>*@
+
+@*<aside>
+    <h3>Aside Title</h3>
+    <p>
+        Use this area to provide additional information.
+    </p>
+    <ul>
+        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+        <li>@Html.ActionLink("About", "About", "Home")</li>
+        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+    </ul>
+</aside>*@
+
+
+
+
+<script type="text/javascript">
+    //$(document).ready(function () {
+
+    //    // We only want these styles applied when javascript is enabled
+    //    $('div.navigation').css({ 'float': 'left' });
+    //    $('div.content').css('display', 'block');
+
+    //    // Initially set opacity on thumbs and add
+    //    // additional styling for hover effect on thumbs
+    //    var onMouseOutOpacity = 0.67;
+
+    //    // var a = $j('#thumbs ul.thumbs li');
+
+    //    $('#thumbs ul.thumbs li').opacityrollover({
+    //        mouseOutOpacity: onMouseOutOpacity,
+    //        mouseOverOpacity: 1.0,
+    //        fadeSpeed: 'fast',
+    //        exemptionSelector: '.selected'
+    //    });
+
+    //    // Initialize Advanced Galleriffic Gallery
+    //    var gallery = $('#thumbs').galleriffic({
+    //        delay: 4000,
+    //        numThumbs: 15,
+    //        preloadAhead: 10,
+    //        enableTopPager: true,
+    //        enableBottomPager: true,
+    //        maxPagesToShow: 7,
+    //        imageContainerSel: '#slideshow',
+    //        controlsContainerSel: '#controls',
+    //        captionContainerSel: '#caption',
+    //        loadingContainerSel: '#loading',
+    //        renderSSControls: true,
+    //        renderNavControls: true,
+    //        playLinkText: 'Play Slideshow',
+    //        pauseLinkText: 'Pause Slideshow',
+    //        prevLinkText: '&lsaquo; Previous Photo',
+    //        nextLinkText: 'Next Photo &rsaquo;',
+    //        nextPageLinkText: 'Next &rsaquo;',
+    //        prevPageLinkText: '&lsaquo; Prev',
+    //        enableHistory: false,
+    //        autoStart: false,
+    //        syncTransitions: true,
+    //        defaultTransitionDuration: 900,
+    //        onSlideChange: function (prevIndex, nextIndex) {
+    //            // 'this' refers to the gallery, which is an extension of $('#thumbs')
+    //            this.find('ul.thumbs').children()
+    //                    .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+    //                    .eq(nextIndex).fadeTo('fast', 1.0);
+    //        },
+    //        onPageTransitionOut: function (callback) {
+    //            this.fadeTo('fast', 0.0, callback);
+    //        },
+    //        onPageTransitionIn: function () {
+    //            this.fadeTo('fast', 1.0);
+    //        }
+    //    });
+
+
+    //});
+
+
+
+
+
+    //$(document).ajaxComplete(function () {
+
+    //    // We only want these styles applied when javascript is enabled
+    //    $('div.navigation').css({ 'float': 'left' });
+    //    $('div.content').css('display', 'block');
+
+    //    // Initially set opacity on thumbs and add
+    //    // additional styling for hover effect on thumbs
+    //    var onMouseOutOpacity = 0.67;
+    //    $('#thumbs ul.thumbs li').opacityrollover({
+    //        mouseOutOpacity: onMouseOutOpacity,
+    //        mouseOverOpacity: 1.0,
+    //        fadeSpeed: 'fast',
+    //        exemptionSelector: '.selected'
+    //    });
+
+    //    // Initialize Advanced Galleriffic Gallery
+    //    var gallery = $('#thumbs').galleriffic({
+    //        delay: 4000,
+    //        numThumbs: 15,
+    //        preloadAhead: 10,
+    //        enableTopPager: true,
+    //        enableBottomPager: true,
+    //        maxPagesToShow: 7,
+    //        imageContainerSel: '#slideshow',
+    //        controlsContainerSel: '#controls',
+    //        captionContainerSel: '#caption',
+    //        loadingContainerSel: '#loading',
+    //        renderSSControls: true,
+    //        renderNavControls: true,
+    //        playLinkText: 'Play Slideshow',
+    //        pauseLinkText: 'Pause Slideshow',
+    //        prevLinkText: '&lsaquo; Previous Photo',
+    //        nextLinkText: 'Next Photo &rsaquo;',
+    //        nextPageLinkText: 'Next &rsaquo;',
+    //        prevPageLinkText: '&lsaquo; Prev',
+    //        enableHistory: false,
+    //        autoStart: false,
+    //        syncTransitions: true,
+    //        defaultTransitionDuration: 900,
+    //        onSlideChange: function (prevIndex, nextIndex) {
+    //            // 'this' refers to the gallery, which is an extension of $('#thumbs')
+    //            this.find('ul.thumbs').children()
+    //                    .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+    //                    .eq(nextIndex).fadeTo('fast', 1.0);
+    //        },
+    //        onPageTransitionOut: function (callback) {
+    //            this.fadeTo('fast', 0.0, callback);
+    //        },
+    //        onPageTransitionIn: function () {
+    //            this.fadeTo('fast', 1.0);
+    //        }
+    //    });
+
+
+
+
+    //});
+
+
+    //jQuery(document).ready(function ($) {
+
+    //    // We only want these styles applied when javascript is enabled
+    //    $('div.navigation').css({ 'float': 'left' });
+    //    $('div.content').css('display', 'block');
+
+    //    // Initially set opacity on thumbs and add
+    //    // additional styling for hover effect on thumbs
+    //    var onMouseOutOpacity = 0.67;
+    //    $('#thumbs ul.thumbs li').opacityrollover({
+    //        mouseOutOpacity: onMouseOutOpacity,
+    //        mouseOverOpacity: 1.0,
+    //        fadeSpeed: 'fast',
+    //        exemptionSelector: '.selected'
+    //    });
+
+    //    // Initialize Advanced Galleriffic Gallery
+    //    var gallery = $('#thumbs').galleriffic({
+    //        delay: 4000,
+    //        numThumbs: 15,
+    //        preloadAhead: 10,
+    //        enableTopPager: true,
+    //        enableBottomPager: true,
+    //        maxPagesToShow: 7,
+    //        imageContainerSel: '#slideshow',
+    //        controlsContainerSel: '#controls',
+    //        captionContainerSel: '#caption',
+    //        loadingContainerSel: '#loading',
+    //        renderSSControls: true,
+    //        renderNavControls: true,
+    //        playLinkText: 'Play Slideshow',
+    //        pauseLinkText: 'Pause Slideshow',
+    //        prevLinkText: '&lsaquo; Previous Photo',
+    //        nextLinkText: 'Next Photo &rsaquo;',
+    //        nextPageLinkText: 'Next &rsaquo;',
+    //        prevPageLinkText: '&lsaquo; Prev',
+    //        enableHistory: false,
+    //        autoStart: false,
+    //        syncTransitions: true,
+    //        defaultTransitionDuration: 900,
+    //        onSlideChange: function (prevIndex, nextIndex) {
+    //            // 'this' refers to the gallery, which is an extension of $('#thumbs')
+    //            this.find('ul.thumbs').children()
+    //                    .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+    //                    .eq(nextIndex).fadeTo('fast', 1.0);
+    //        },
+    //        onPageTransitionOut: function (callback) {
+    //            this.fadeTo('fast', 0.0, callback);
+    //        },
+    //        onPageTransitionIn: function () {
+    //            this.fadeTo('fast', 1.0);
+    //        }
+    //    });
+
+
+
+
+    //});
+
+</script>

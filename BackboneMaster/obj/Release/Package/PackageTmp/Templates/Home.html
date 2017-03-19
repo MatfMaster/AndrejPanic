@@ -1,0 +1,74 @@
+﻿<h2>Apartments</h2>
+<style>
+    .tableData {
+    }
+
+        .tableData tr {
+        }
+
+        .tableData td, .tableData th {
+            text-align: left;
+            padding: 5px;
+        }
+
+        .tableData td {
+        }
+
+        .tableData th {
+            background-color: #FAFAFA;
+            padding: 7px 5px;
+        }
+
+    .odd {
+        background-color: #f3f3f3;
+    }
+
+    .even {
+        background-color: #ffffff;
+    }
+</style>
+<!--<div ng-controller="HomeController">-->
+<!--<div style="font-weight:bold">
+    Apartments
+</div>-->
+<!--<label>Search: <input ng-model="searchText"></label>
+
+<table class="tableData" width="80%" border="0" cellpadding="0" cellspacing="0">
+
+
+    <tr ng-repeat="e in Apartments | filter:searchText" ng-class-odd="'odd'" ng-class-even="'even'">
+
+
+        <td ng-if="e.ImageName !== null"><a ng-href="{{'#!/Details/' + e.ID}}"><img ng-src="{{'../Images/' + e.Name + '/' + e.ImageName}}" width="300" height="220" /></a></td>
+        <td ng-if="e.ImageName === null">-</td>
+
+
+        <td>{{e.Name}}</td>
+        <td><a ng-href="{{'#!/Details/' + e.ID}}">More details</a></td>
+
+    </tr>
+
+
+</table>-->
+<!--</div>-->
+
+
+<div class="main">
+    <div id="AppContainer">
+    </div>
+    <script type="text/javascript">
+
+        var router = null;
+
+        $(document).ready(function () {
+            router = new myRouter();
+            Backbone.history.start();
+        })
+
+    </script>
+
+    <div id="rAppContainer">
+        Router Enabled
+    </div>
+
+</div>

@@ -1,0 +1,146 @@
+﻿@*@{
+    ViewBag.Title = "Apartment";
+}
+
+
+
+<h2 data-bind="value: ApartmentName"></h2>
+
+
+<div id="gallery" class="content">
+    <div id="controls" class="controls"></div>
+    <div class="slideshow-container">
+        <div id="loading" class="loader"></div>
+        <div id="slideshow" class="slideshow" style="width:304px;height:228px;"></div>
+    </div>
+    <div id="caption" class="caption-container"></div>
+</div>
+
+
+<div id="thumbs" class="navigation" ng-controller="ImagesController">
+    <ul class="thumbs noscript">
+
+        <li ng-repeat="e in Images" on-finish-render="test()" class="imgdata">
+
+            <a class="thumb" ng-href="{{'../Images/' + e.ApartmentName + '/' + e.ImageName}}" title="{{e.ImageName}}">
+                <img ng-src="{{'../Images/' + e.ApartmentName + '/' + e.ImageName}}" width="300" height="220" alt="{{e.ImageName}}" title="{{e.ImageName}}" />
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+<div ng-controller="DetailsController">
+    <div style="font-weight:bold">
+        Apartment Details
+    </div>
+    <a ng-href="{{'#!/UploadImages/' + Details.ID}}">Upload image</a>
+    <table>
+        <tr>
+            <td> Name :</td>
+            <td>{{Details.Name}}</td>
+        </tr>
+        <tr>
+            <td>City  : </td>
+            <td>{{Details.City}}</td>
+        </tr>
+
+        <tr>
+            <td>Address</td>
+            <td>{{Details.Address}}</td>
+        </tr>
+    </table>
+</div>
+
+<script type="text/javascript">
+
+
+
+    //// We only want these styles applied when javascript is enabled
+    //$('div.navigation').css({ 'float': 'left' });
+    //$('div.content').css('display', 'block');
+
+    //// Initially set opacity on thumbs and add
+    //// additional styling for hover effect on thumbs
+    //var onMouseOutOpacity = 0.67;
+    //$('#thumbs ul.thumbs li').opacityrollover({
+    //    mouseOutOpacity: onMouseOutOpacity,
+    //    mouseOverOpacity: 1.0,
+    //    fadeSpeed: 'fast',
+    //    exemptionSelector: '.selected'
+    //});
+
+    //// Initialize Advanced Galleriffic Gallery
+    //var gallery = $('#thumbs').galleriffic({
+    //    delay: 4000,
+    //    numThumbs: 15,
+    //    preloadAhead: 10,
+    //    enableTopPager: true,
+    //    enableBottomPager: true,
+    //    maxPagesToShow: 7,
+    //    imageContainerSel: '#slideshow',
+    //    controlsContainerSel: '#controls',
+    //    captionContainerSel: '#caption',
+    //    loadingContainerSel: '#loading',
+    //    renderSSControls: true,
+    //    renderNavControls: true,
+    //    playLinkText: 'Play Slideshow',
+    //    pauseLinkText: 'Pause Slideshow',
+    //    prevLinkText: '&lsaquo; Previous Photo',
+    //    nextLinkText: 'Next Photo &rsaquo;',
+    //    nextPageLinkText: 'Next &rsaquo;',
+    //    prevPageLinkText: '&lsaquo; Prev',
+    //    enableHistory: false,
+    //    autoStart: false,
+    //    syncTransitions: true,
+    //    defaultTransitionDuration: 900,
+    //    onSlideChange: function (prevIndex, nextIndex) {
+    //        // 'this' refers to the gallery, which is an extension of $('#thumbs')
+    //        this.find('ul.thumbs').children()
+    //                .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+    //                .eq(nextIndex).fadeTo('fast', 1.0);
+    //    },
+    //    onPageTransitionOut: function (callback) {
+    //        this.fadeTo('fast', 0.0, callback);
+    //    },
+    //    onPageTransitionIn: function () {
+    //        this.fadeTo('fast', 1.0);
+    //    }
+    //});
+
+
+
+
+
+
+</script>*@
+
+<ul class="nav nav-pills" data-bind="foreach:views">
+    <li data-bind="css: {active: $root.currentView() == $data}">
+        <a data-bind="text:$data, attr:{href:'#' + $data}"></a>
+    </li>
+</ul>
+
+<div class="container">
+    <div class="row">
+        <div class="span12">
+            <div data-bind="template: {name: currentView()}"></div>
+        </div>
+    </div>
+</div>
+
+<script type="text/html" id="Home">
+    <div>
+        <h2>Home</h2>
+    </div>
+</script>
+<script type="text/html" id="About">
+    <div>
+        <h2>About</h2>
+    </div>
+</script>
+<script type="text/html" id="Contact">
+    <div>
+        <h2>Contact</h2>
+    </div>
+</script>
